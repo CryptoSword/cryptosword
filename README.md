@@ -1,4 +1,5 @@
-# cryptosword
+# CryptoSword
+### Automated Altcoin Trading
 
 
 ### To get started:  
